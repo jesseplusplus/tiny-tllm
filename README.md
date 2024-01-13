@@ -6,3 +6,5 @@
 
 `$ gcloud auth login`
 
+`$ pip install -r requirements.txt`
+
