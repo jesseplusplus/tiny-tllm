@@ -1,4 +1,1 @@
-google-cloud-translate==3.11.1
-transformers[sentencepiece]==4.36.2
-torch==2.1.2
-sacremoses==0.1.1
+requests==2.31.0
