@@ -1,3 +1,5 @@
+## Setup
+
 #### Requires a Google Cloud project with Translation API enabled
 
 [Google Cloud setup](https://cloud.google.com/python/docs/reference/translate/latest#quick-start)
@@ -8,3 +10,6 @@
 
 `$ pip install -r requirements.txt`
 
+## Usage
+
+`$ python translate.py "de" "A sample string to translate"`
